@@ -1,0 +1,20 @@
+.impares{
+    background-color:color-mix(in srgb, rgb(255, 75, 75), pink);
+    font-family: Verdana, "Dejavu sans", sans-serif;
+}
+
+#segundo {
+    color: blue;
+    font-size: 36px;
+}
+
+.impares.tercero{
+    font-size: 24px;
+}
+
+#cuarto{
+    background-color: rgb(0, 255, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
+
